@@ -1,0 +1,23 @@
+{
+    "name": "frontend",
+    "version": "1.0.0",
+    "description": "YouTube Channel Data Dashboard",
+    "main": "index.js",
+    "scripts": {
+        "start": "vite",
+        "dev": "vite",
+        "build": "vite build",
+        "serve": "vite preview"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^1.7.7",
+        "react": "^18.0.0",
+        "react-dom": "^18.0.0"
+    },
+    "devDependencies": {
+        "vite": "^4.5.5"
+    }
+}
